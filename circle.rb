@@ -4,4 +4,7 @@ class Circle
         @x = x
         @y = y
     end
+
+    def this_breaks
+    end
 end

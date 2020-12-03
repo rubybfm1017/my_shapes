@@ -5,6 +5,7 @@ class Circle
         @y = y
     end
 
-    def this_breaks
+    def area
+        Math ::PI * (@radius)
     end
 end
